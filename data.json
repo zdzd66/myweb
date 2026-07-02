@@ -1,0 +1,12 @@
+{
+  "sites": [
+    { "name": "GitHub", "url": "https://github.com", "desc": "代码托管 · 开源社区" },
+    { "name": "知乎", "url": "https://zhihu.com", "desc": "知识分享社区" },
+    { "name": "B站", "url": "https://bilibili.com", "desc": "视频 · 二次元 · 学习" },
+    { "name": "掘金", "url": "https://juejin.cn", "desc": "技术社区 · 开发者" },
+    { "name": "V2EX", "url": "https://v2ex.com", "desc": "创意工作者社区" },
+    { "name": "豆瓣", "url": "https://douban.com", "desc": "书影音 · 社区" },
+    { "name": "少数派", "url": "https://sspai.com", "desc": "高效工作 · 品质生活" },
+    { "name": "Product Hunt", "url": "https://producthunt.com", "desc": "发现最新产品" }
+  ]
+}
